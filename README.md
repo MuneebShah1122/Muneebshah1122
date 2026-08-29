@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 🙌
 
-<!--
-**MuneebShah1122/Muneebshah1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Syed Muneeb Shah. 
+Computer Engineer | AI & ML | 📊Data Analytics
 
-Here are some ideas to get you started:
+I'm passionate about building practical solutions using AI, Machine Learning, Data Analysis, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+* Python, C++, Java, C#
+* Pandas, NumPy, Scikit-learn, TensorFlow
+* Power BI & Excel
+* n8n & Workflow Automation
+
+🚀 Currently
+* Learning **AI & Machine Learning**
+* Building **Data Analytics & Automation projects**
+* Exploring **AI Agents & Generative AI**
+
+📫 Connect with me
+* 💼 LinkedIn: https://www.linkedin.com/in/syed-muneeb-shah-766931341/
+* 📧 Email: Feel free to reach out!
